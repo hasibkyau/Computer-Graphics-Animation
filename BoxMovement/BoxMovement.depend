@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649129238 source:h:\my_study\bsc in cse\computergraphics&animation\boxmovement\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+

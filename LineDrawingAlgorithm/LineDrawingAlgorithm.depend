@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641873167 source:h:\my_study\bsc in cse\computergraphics&animation\linedrawingalgorithm\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<math.h>
+	<dos.h>
+

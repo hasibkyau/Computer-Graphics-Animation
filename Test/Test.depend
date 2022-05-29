@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645173421 source:h:\my_study\bsc in cse\computergraphics&animation\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:h:\my_study\bsc in cse\computergraphics&animation\test\main.cpp
+	<iostream>
+

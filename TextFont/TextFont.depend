@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641268472 source:h:\my_study\bsc in cse\computergraphics&animation\textfont\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	<Windows.h>
+
+1641267358 source:h:\my_study\bsc in cse\computergraphics&animation\textfont\color.cpp
+

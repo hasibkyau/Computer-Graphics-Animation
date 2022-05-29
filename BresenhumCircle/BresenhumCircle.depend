@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648525574 source:h:\my_study\bsc in cse\computergraphics&animation\bresenhumcircle\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641460176 source:h:\my_study\bsc in cse\computergraphics&animation\cp\main.cpp
+	<iostream>
+	<conio.h>
+	<bits/stdc++.h>
+
+1641458449 source:h:\my_study\bsc in cse\computergraphics&animation\cp\subtractwithoutminusoperator.cpp
+
+1641461505 source:h:\my_study\bsc in cse\computergraphics&animation\cp\problem2.cpp
+	<bits\stdc++.h>
+
